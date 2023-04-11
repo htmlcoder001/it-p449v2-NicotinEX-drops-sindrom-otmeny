@@ -79,7 +79,7 @@ $('.close-popup, .pop-up-button').click(function (e) {
     $('body,html').animate({scrollTop: top}, 800);
 });
 
-var time = 3600;
+var time = 1800;
 var intr;
 
 function start_timer() {
